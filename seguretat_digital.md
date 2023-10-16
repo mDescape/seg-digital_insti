@@ -360,3 +360,22 @@ Link: https://www.veracrypt.fr/en/Downloads.html
 Més info al web de [Hacklab Logout](https://sindominio.net/logout/)
 
 Gràcies per la vostra atenció ❤️
+
+---
+# Missatgeria per Whatsapp
+___
+Creació de Claus d'encriptació
+
+![whats1](img/whats1.png)
+___
+Inici de la conversa
+
+![whats2](img/whats2.png)
+___
+Rebuda dels missatges pendents
+
+![whats3](img/whats3.png)
+___
+ACK!
+
+![whats4](img/whats4.png)
